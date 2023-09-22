@@ -8,3 +8,5 @@ tags:
   - diffusers
   - autotrain
 inference: true
+
+![graph](/images/ADD.png)
