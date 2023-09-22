@@ -9,4 +9,7 @@ tags:
   - autotrain
 inference: true
 
-![graph](/images/ADD.png)
+![graph](/images/IMG_4414.JPG)
+![graph](/images/IMG_4443.JPG)
+![graph](/images/IMG_4283.JPG)
+![graph](/images/im8.JPEG)
